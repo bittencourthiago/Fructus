@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/alexanderritik/Best-README-Template">
-    <img src="./Fructus/Assets.xcassets/logo.imageset/logo.svg.jpeg" alt="Logo" width="80" height="80">
+    <img src="./assets/logo.svg" alt="Logo" width="80" height="80">
   </a>
   <p align="center">
     App with information about some fruits applied in SwiftUI Masterclass
