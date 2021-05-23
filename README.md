@@ -17,12 +17,6 @@
 - iOS 14.0+
 - Xcode 12
 
-## Meta
-
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
 [https://github.com/yourname/github-link](https://github.com/dbader/)
 
 [swift-image]:https://img.shields.io/badge/swift-3.0-orange.svg
