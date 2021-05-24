@@ -6,7 +6,7 @@
     <img src="./assets/logo.svg" alt="Logo" width="80" height="80">
   </a>
   <p align="center">
-    App with information about some fruits applied in SwiftUI Masterclass
+    App with information about some fruits applied in <a href="https://credo.academy/">Credo Academy</a> SwiftUI Masterclass
   </p>
 </p>
 
