@@ -17,8 +17,6 @@
 - iOS 14.0+
 - Xcode 12
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
-
 [swift-image]:https://img.shields.io/badge/swift-3.0-orange.svg
 [swift-url]: https://swift.org/
 [license-image]: https://img.shields.io/badge/License-MIT-blue.svg
